@@ -4,7 +4,7 @@ import "fmt"
 import "github.com/kevinmichaelchen/foo"
 
 type A struct {
-	foo.Cow
+	foo.Bar
 }
 
 func main() {
